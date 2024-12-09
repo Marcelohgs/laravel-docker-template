@@ -36,7 +36,7 @@ git clone https://github.com/Marcelohgs/Desafio-FullStack.git
 cd seu-repositorio
 ```
 
-### CREIE O PROJETO LARAVEL
+### CRIE O PROJETO LARAVEL
 ```
 composer create-project laravel/laravel api --prefer-dist
 ```
